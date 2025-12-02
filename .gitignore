@@ -11,3 +11,5 @@ staticfiles/
 
 # Environment files
 .env
+
+db.sqlite3
